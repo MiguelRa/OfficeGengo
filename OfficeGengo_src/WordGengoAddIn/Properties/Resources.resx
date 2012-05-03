@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LogOf" xml:space="preserve">
+    <value>Log off</value>
+  </data>
+  <data name="JOB_STATUS_PENDING_FRIENDLY" xml:space="preserve">
+    <value>Translating</value>
+  </data>
+  <data name="AppDirectory" xml:space="preserve">
+    <value>//MyGengo//wGengo//</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="document_view" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\document_view.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BtnTierStardard" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="JOB_STATUS_APPROVED_FRIENDLY" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="JOB_STATUS_REVIEWABLE_FRIENDLY" xml:space="preserve">
+    <value>Reviewable</value>
+  </data>
+  <data name="LoginSuccess" xml:space="preserve">
+    <value>Login OK.</value>
+  </data>
+  <data name="document_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\document_edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BtnTierUltra" xml:space="preserve">
+    <value>Ultra</value>
+  </data>
+  <data name="JOB_STATUS_HELD_FRIENDLY" xml:space="preserve">
+    <value>Rejected,{0}Pending{0}Review</value>
+  </data>
+  <data name="TIER_STANDARD" xml:space="preserve">
+    <value>standard</value>
+  </data>
+  <data name="TIER_UNIT_TYPE_WORD" xml:space="preserve">
+    <value>word</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="stopwatch_run" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\stopwatch_run.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BtnTierMachine" xml:space="preserve">
+    <value>Machine Free!</value>
+  </data>
+  <data name="LogOfSuccess" xml:space="preserve">
+    <value>Log off OK</value>
+  </data>
+  <data name="TEXT_INFO_ORDER_OK" xml:space="preserve">
+    <value>Order posted OK</value>
+  </data>
+  <data name="TIER_UNIT_TYPE_CHAR" xml:space="preserve">
+    <value>char</value>
+  </data>
+  <data name="BtnTierProfessional" xml:space="preserve">
+    <value>Professional</value>
+  </data>
+  <data name="TIER_UNIT_TYPE_CHARACTER" xml:space="preserve">
+    <value>character</value>
+  </data>
+  <data name="TIER_PROFESSIONAL" xml:space="preserve">
+    <value>pro</value>
+  </data>
+  <data name="TIER_ULTRA" xml:space="preserve">
+    <value>ultra</value>
+  </data>
+  <data name="JOB_STATUS_CANCELLED_FRIENDLY" xml:space="preserve">
+    <value>Cancelled</value>
+  </data>
+  <data name="JOB_STATUS_REVISING_FRIENDLY" xml:space="preserve">
+    <value>Revising</value>
+  </data>
+  <data name="TIER_MACHINE" xml:space="preserve">
+    <value>machine</value>
+  </data>
+  <data name="ErrorInitializinClientWrapper" xml:space="preserve">
+    <value>Wrapper error</value>
+  </data>
+  <data name="JOB_STATUS_AVAILABLE_FRIENDLY" xml:space="preserve">
+    <value>Awaiting{0}translator</value>
+  </data>
+  <data name="NotSpecified" xml:space="preserve">
+    <value>--</value>
+  </data>
+  <data name="ErrorAppMessage" xml:space="preserve">
+    <value>Error in application</value>
+  </data>
+  <data name="LINK_GET_YOUR_KEYS" xml:space="preserve">
+    <value>http://mygengo.com/express/account/api_settings/</value>
+  </data>
+  <data name="LINK_WHAT_MEAN_TIERS" xml:space="preserve">
+    <value>http://mygengo.com/help/quality_policy</value>
+  </data>
+  <data name="JOB" xml:space="preserve">
+    <value />
+  </data>
+  <data name="TEXT_INFO_CANCEL_OK" xml:space="preserve">
+    <value>Translation cancelled OK</value>
+  </data>
+  <data name="TEXT_INFO_APPROVED_OK" xml:space="preserve">
+    <value>Translation approved OK</value>
+  </data>
+  <data name="TEXT_INFO_REVIEW_OK" xml:space="preserve">
+    <value>Translation loaded OK</value>
+  </data>
+  <data name="TEXT_INFO_VIEW_OK" xml:space="preserve">
+    <value>Translation loaded OK</value>
+  </data>
+  <data name="TEXT_INFO_REQCORRECTION_OK" xml:space="preserve">
+    <value>Correction requested OK</value>
+  </data>
+  <data name="JOB_REJECT_FOLLOWUP_CANCEL" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="JOB_REJECT_FOLLOWUP_REQUEUE" xml:space="preserve">
+    <value>requeue</value>
+  </data>
+  <data name="JOB_REJECT_REASON_INCOMPLETE" xml:space="preserve">
+    <value>incomplete</value>
+  </data>
+  <data name="JOB_REJECT_REASON_OTHER" xml:space="preserve">
+    <value>other</value>
+  </data>
+  <data name="JOB_REJECT_REASON_QUALITY" xml:space="preserve">
+    <value>quality</value>
+  </data>
+  <data name="TEXT_INFO_REJECT_OK" xml:space="preserve">
+    <value>Translation rejected OK</value>
+  </data>
+  <data name="TEXT_INFO_REFRESH_OK" xml:space="preserve">
+    <value>Refresh OK</value>
+  </data>
+  <data name="icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

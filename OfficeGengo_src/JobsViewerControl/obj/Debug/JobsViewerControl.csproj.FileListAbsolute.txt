@@ -1,0 +1,30 @@
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\bin\Debug\JobsViewerControl.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\bin\Debug\JobsViewerControl.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewer.JobsViewer.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewer.JobViewerSingle.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewer.Properties.Resources.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewerControl.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewerControl.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\bin\Debug\JobsViewerControl.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\bin\Debug\JobsViewerControl.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewer.JobsViewer.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewer.JobViewerSingle.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewer.Properties.Resources.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\ResGen.read.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\ResGen.write.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewerControl.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\JobsViewerControl\obj\Debug\JobsViewerControl.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\bin\Debug\JobsViewerControl.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\bin\Debug\JobsViewerControl.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\ResolveAssemblyReference.cache
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\JobsViewer.JobsViewer.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\JobsViewer.JobViewerSingle.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\JobsViewer.Properties.Resources.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\ResGen.read.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\ResGen.write.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\JobsViewerControl.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\JobsViewerControl\obj\Debug\JobsViewerControl.pdb

@@ -1,0 +1,10 @@
+{
+"opstat":"ok",
+"response":
+	{
+	   "job_id": "62560",
+	   "body_src": "Job 3",
+	   "imagePreview": "preview62560.jpg",
+	   "captcha_url": "http://sandbox.mygengo.com/captcha/?key=5b030d3b14c33264134422ca8a482794babc40ce77d969d3651b374a081b317e"
+	}
+}

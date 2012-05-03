@@ -1,0 +1,87 @@
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\ApproveJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\CancelJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\CorrectJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetAccountBalance.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetLanguagePairs.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetLanguages.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetMyJobs.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\Previews\previewMock.jpg
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\RejectJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\Reject\captchaMock.jpg
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\ReviewJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\TranslateJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\ViewJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MyGengoTranslator.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MyGengoTranslator.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\JobsViewerControl.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MiguelRa.MyGengoClient.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MiguelRa.Util.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\JobsViewerControl.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MiguelRa.MyGengoClient.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.g.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.Properties.Resources.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.UIForms.FormGengoTranslator.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\ApproveJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\CancelJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\CorrectJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetAccountBalance.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetLanguagePairs.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetLanguages.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\GetMyJobs.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\Previews\previewMock.jpg
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\RejectJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\Reject\captchaMock.jpg
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\ReviewJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\TranslateJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\OfflineData\ViewJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MyGengoTranslator.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MyGengoTranslator.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\JobsViewerControl.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MiguelRa.MyGengoClient.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MiguelRa.Util.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\JobsViewerControl.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\bin\Debug\MiguelRa.MyGengoClient.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.g.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.Properties.Resources.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.UIForms.FormGengoTranslator.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\ResGen.read.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\ResGen.write.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\ApproveJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\CancelJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\CorrectJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\GetAccountBalance.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\GetLanguagePairs.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\GetLanguages.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\GetMyJobs.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\Previews\previewMock.jpg
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\RejectJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\Reject\captchaMock.jpg
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\ReviewJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\TranslateJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\OfflineData\ViewJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\MyGengoTranslator.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\MyGengoTranslator.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\JobsViewerControl.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\MiguelRa.MyGengoClient.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\MiguelRa.Util.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\Newtonsoft.Json.Net20.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\JobsViewerControl.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\bin\Debug\MiguelRa.MyGengoClient.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.g.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.Properties.Resources.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.UIForms.FormGengoTranslator.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\ResGen.read.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\ResGen.write.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\MyGengoTranslator\obj\x86\Debug\MyGengoTranslator.pdb

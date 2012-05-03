@@ -1,0 +1,27 @@
+{
+  "opstat": "ok",
+  "response": {
+    "jobs": [
+      {
+        "job1": {
+          "job_id": "15723",
+          "slug": "Un texto para traducir",
+          "body_src": "Un texto",
+          "lc_src": "en",
+          "lc_tgt": "es",
+          "unit_count": "2",
+          "tier": "ultra_pro",
+          "credits": "0.40",
+          "status": "available",
+          "eta": "",
+          "ctime": 1297743137,
+          "callback_url": "",
+          "auto_approve": "0",
+          "custom_data": "",
+          "body_tgt": "Un Texto",
+          "mt": 1
+        }
+      }
+    ]
+  }
+}

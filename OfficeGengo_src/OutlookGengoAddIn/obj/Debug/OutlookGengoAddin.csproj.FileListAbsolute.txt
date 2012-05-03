@@ -1,0 +1,105 @@
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\ApproveJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\CancelJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\CorrectJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetAccountBalance.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetLanguagePairs.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetLanguages.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetMyJobs.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\Previews\previewMock.jpg
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\RejectJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\Reject\captchaMock.jpg
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\ReviewJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\TranslateJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\ViewJob.txt
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\App.config
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.dll.config
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.pdb
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.dll.manifest
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.vsto
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MyGengoTranslator.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\JobsViewerControl.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MiguelRa.MyGengoClient.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MiguelRa.Util.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MyGengoTranslator.pdb
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\JobsViewerControl.pdb
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MiguelRa.MyGengoClient.pdb
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\ResolveAssemblyReference.cache
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\OutlookGengoAddin.g.resources
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\MyOutlookAddin.UCTranslationPanel.resources
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\MyOutlookAddin.Properties.Resources.resources
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\OutlookGengoAddin.dll
+D:\Migue\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\OutlookGengoAddin.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\ApproveJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\CancelJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\CorrectJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetAccountBalance.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetLanguagePairs.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetLanguages.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\GetMyJobs.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\Previews\previewMock.jpg
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\RejectJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\Reject\captchaMock.jpg
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\ReviewJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\TranslateJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OfflineData\ViewJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\App.config
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.dll.config
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.dll.manifest
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\OutlookGengoAddin.vsto
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MyGengoTranslator.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\JobsViewerControl.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MiguelRa.MyGengoClient.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MiguelRa.Util.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MyGengoTranslator.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\JobsViewerControl.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\bin\Debug\MiguelRa.MyGengoClient.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\OutlookGengoAddin.g.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\MyOutlookAddin.UCTranslationPanel.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\MyOutlookAddin.Properties.Resources.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\ResGen.read.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\ResGen.write.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\OutlookGengoAddin.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\OutlookGengoAddin\OutlookGengo\obj\Debug\OutlookGengoAddin.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\App.config
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OutlookGengoAddin.dll.config
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OutlookGengoAddin.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OutlookGengoAddin.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OutlookGengoAddin.dll.manifest
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\OutlookGengoAddin.vsto
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\MyGengoTranslator.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\JobsViewerControl.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\MiguelRa.Util.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\JobsViewerControl.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\OutlookGengoAddin.g.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\MyOutlookAddin.UCTranslationPanel.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\MyOutlookAddin.Properties.Resources.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\ResGen.read.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\ResGen.write.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\OutlookGengoAddin.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\OutlookGengoAddIn\obj\Debug\OutlookGengoAddin.pdb

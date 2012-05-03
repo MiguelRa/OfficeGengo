@@ -1,0 +1,293 @@
+{
+  "opstat": "ok",
+  "response": [
+    {
+      "lc_src": "de",
+      "lc_tgt": "en",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ja",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ja",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "zh",
+      "tier": "ultra",
+      "unit_price": "0.2000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "zh",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "de",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "es",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "es",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ru",
+      "tier": "ultra",
+      "unit_price": "0.2000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ru",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "it",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "it",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ja",
+      "tier": "ultra",
+      "unit_price": "0.2000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ja",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "zh",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "zh",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "es",
+      "tier": "ultra",
+      "unit_price": "0.2000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "es",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ru",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "ru",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "it",
+      "tier": "ultra",
+      "unit_price": "0.2000"
+    },
+    {
+      "lc_src": "en",
+      "lc_tgt": "it",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "en",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "en",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "en",
+      "tier": "ultra",
+      "unit_price": "0.1500"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "ja",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "ja",
+      "tier": "ultra",
+      "unit_price": "0.1500"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "en",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "es",
+      "lc_tgt": "ja",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "it",
+      "lc_tgt": "en",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "it",
+      "lc_tgt": "en",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "it",
+      "lc_tgt": "en",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "it",
+      "lc_tgt": "en",
+      "tier": "ultra",
+      "unit_price": "0.1500"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "en",
+      "tier": "pro",
+      "unit_price": "0.0600"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "es",
+      "tier": "pro",
+      "unit_price": "0.0600"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "en",
+      "tier": "standard",
+      "unit_price": "0.0300"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "en",
+      "tier": "ultra",
+      "unit_price": "0.1200"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "en",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "es",
+      "tier": "standard",
+      "unit_price": "0.0300"
+    },
+    {
+      "lc_src": "ja",
+      "lc_tgt": "es",
+      "tier": "ultra",
+      "unit_price": "0.1200"
+    },
+    {
+      "lc_src": "ru",
+      "lc_tgt": "en",
+      "tier": "pro",
+      "unit_price": "0.1000"
+    },
+    {
+      "lc_src": "ru",
+      "lc_tgt": "en",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "ru",
+      "lc_tgt": "en",
+      "tier": "standard",
+      "unit_price": "0.0500"
+    },
+    {
+      "lc_src": "ru",
+      "lc_tgt": "en",
+      "tier": "ultra",
+      "unit_price": "0.1500"
+    },
+    {
+      "lc_src": "zh",
+      "lc_tgt": "en",
+      "tier": "pro",
+      "unit_price": "0.0600"
+    },
+    {
+      "lc_src": "zh",
+      "lc_tgt": "en",
+      "tier": "machine",
+      "unit_price": "0.0000"
+    },
+    {
+      "lc_src": "zh",
+      "lc_tgt": "en",
+      "tier": "standard",
+      "unit_price": "0.0300"
+    },
+    {
+      "lc_src": "zh",
+      "lc_tgt": "en",
+      "tier": "ultra",
+      "unit_price": "0.0900"
+    }
+  ]
+}

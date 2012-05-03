@@ -1,0 +1,47 @@
+{
+  "opstat": "ok",
+  "response": [
+    {
+      "language": "English",
+      "localized_name": "English",
+      "lc": "en",
+      "unit_type": "word"
+    },
+    {
+      "language": "Japanese",
+      "localized_name": "u65e5u672cu8a9e",
+      "lc": "ja",
+      "unit_type": "character"
+    },
+    {
+      "language": "Spanish (Spain)",
+      "localized_name": "Espau00f1ol",
+      "lc": "es",
+      "unit_type": "word"
+    },
+    {
+      "language": "Chinese (Simplified)",
+      "localized_name": "u4e2du6587",
+      "lc": "zh",
+      "unit_type": "character"
+    },
+    {
+      "language": "German",
+      "localized_name": "Deutsch",
+      "lc": "de",
+      "unit_type": "word"
+    },
+    {
+      "language": "Russian",
+      "localized_name": "u0440u0443u0441u0441u043au0438u0439 u044fu0437u044bu043a",
+      "lc": "ru",
+      "unit_type": "word"
+    },
+    {
+      "language": "Italian",
+      "localized_name": "Italiano",
+      "lc": "it",
+      "unit_type": "word"
+    }
+  ]
+}

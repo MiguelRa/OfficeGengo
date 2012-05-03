@@ -1,0 +1,296 @@
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\ApproveJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\CancelJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\CorrectJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\GetLanguages.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\RejectJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\ReviewJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\TranslateJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\OfflineData\ViewJob.txt
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\App.config
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\WordGengoAddin.dll.config
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\WordGengoAddin.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\WordGengoAddin.pdb
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\WordGengoAddin.dll.manifest
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\WordGengoAddin.vsto
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\MyGengoTranslator.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\MiguelRa.Util.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\MyGengoTranslator.pdb
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\ResolveAssemblyReference.cache
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\WordGengoAddin.g.resources
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\GenerateResource.read.1.tlog
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\GenerateResource.write.1.tlog
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\WordGengoAddin.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\obj\Debug\WordGengoAddin.pdb
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\JobsViewerControl.dll
+E:\MyGengoWordAddIn\product\MyGengoWordAddIn\bin\Debug\JobsViewerControl.pdb
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\App.config
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+E:\MyGengoWordAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+E:\MyGengoWordAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\App.config
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+E:\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+E:\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\App.config
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+E:\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\App.config
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+D:\Migue\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\!revisions\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\App.config
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+D:\Migue\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\App.config
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+C:\Mis proyectos\Migue\03_OfficeGengoAddins\OfficeGengoAddins\WordGengoAddIn\product\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\ApproveJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\CancelJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\CorrectJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\GetAccountBalance.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\GetLanguagePairs.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\GetLanguages.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\GetMyJobs.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\Previews\previewMock.jpg
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\RejectJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\Reject\captchaMock.jpg
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\ReviewJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\TranslateJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\OfflineData\ViewJob.txt
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\App.config
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.config
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\WordGengoAddin.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\WordGengoAddin.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\WordGengoAddin.dll.manifest
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\WordGengoAddin.vsto
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\MyGengoTranslator.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\JobsViewerControl.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\Newtonsoft.Json.Net20.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\MiguelRa.Util.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\MyGengoTranslator.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\JobsViewerControl.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\bin\Debug\MiguelRa.MyGengoClient.pdb
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\ResolveAssemblyReference.cache
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\WordGengoAddin.g.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.Properties.Resources.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\MyGengoWordAddIn.wGengoRibbon.resources
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\GenerateResource.read.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\GenerateResource.write.1.tlog
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\WordGengoAddin.dll
+K:\HDD_EXTERNO\!content\Jobs\20-2 Concurso myGengo_Office\my_product\2_code\OfficeGengoAddins_arranged\WordGengoAddIn\obj\Debug\WordGengoAddin.pdb

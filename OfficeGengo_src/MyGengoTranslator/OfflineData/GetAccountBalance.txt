@@ -1,0 +1,6 @@
+{
+  "opstat": "ok",
+  "response": {
+    "credits": "1003.85"
+  }
+}

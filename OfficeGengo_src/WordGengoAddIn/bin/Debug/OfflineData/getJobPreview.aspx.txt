@@ -1,0 +1,8 @@
+{
+  "opstat": "ok",
+  "response": {
+    "job_id": "16613",	
+    "body_src": " aplicaci\\u00f3n. Developing mobile applications used to be an arcane activity pursued by highly specialized developers, but no more. The surge in popularity of Android devices, BlackBerries, and iPhones has application development professionals gearing up to incorporate mobile development into mainstream development processes. The first step in taking mobile development mainstream is defining your strategy. Learn from your peers in consumer product strategy by applying Forrester's POST method to your mobile development efforts. Begin by understanding what types of mobile users you need to support. Next, determine your objectives, and then build a strategy based on your desired offering and level of corporate commitment to mobile. Once you have completed these three steps, then — and only then — should you choose from among the six mobile development styles at your disposal and the vendors that offer mobile platforms and tools that can aid your efforts.",
+    "imagePreview": "~/_wpresources/MiguelRa.spGengo/spGengo/asp_mock/preview/jobPreview16613.jpg"
+  }
+}

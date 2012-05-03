@@ -1,0 +1,22 @@
+{
+  "opstat": "ok",
+  "response": {
+    "job": {
+      "job_id": "16673",
+      "slug": "aplicaci\\u00f3n",
+      "body_src": "Un cami\\u00f3n. Confronted with this situation, most IT professionals chose a middle ground, which forced information workers to make critical security decisions. If a document contained ActiveX controls or macros from an unknown source, users were asked whether they wanted to enable the ActiveX controls or the macros. Users were not allowed to access the document until they answered the question. Although this was not a perfect solution, it did provide a mechanism for mitigating security threats without intruding too much on productivity. The main problem was that most users, when confronted with a security warning, dismissed the warning so they could access the document and get their work done. This was acceptable for low-risk internal documents that did not likely contain malicious content, but it was not acceptable for high-risk external documents that passed through the Internet and could contain malicious content. Unfortunately, users did not usually distinguish between high-risk and low-risk files and treated both files the same way — that is, they accepted the risk and enabled the ActiveX controls and macros.",
+      "lc_src": "en",
+      "lc_tgt": "es",
+      "unit_count": "8",
+      "tier": "pro",
+      "credits": "0.80",
+      "status": "approved",
+      "eta": "",
+      "ctime": 1298861619,
+      "callback_url": "",
+      "auto_approve": "0",
+      "custom_data": "",
+      "body_tgt": "Una aplicaci\\u00f3n. Confronted with this situation, most IT professionals chose a middle ground, which forced information workers to make critical security decisions. If a document contained ActiveX controls or macros from an unknown source, users were asked whether they wanted to enable the ActiveX controls or the macros. Users were not allowed to access the document until they answered the question. Although this was not a perfect solution, it did provide a mechanism for mitigating security threats without intruding too much on productivity. The main problem was that most users, when confronted with a security warning, dismissed the warning so they could access the document and get their work done. This was acceptable for low-risk internal documents that did not likely contain malicious content, but it was not acceptable for high-risk external documents that passed through the Internet and could contain malicious content. Unfortunately, users did not usually distinguish between high-risk and low-risk files and treated both files the same way — that is, they accepted the risk and enabled the ActiveX controls and macros. Confronted with this situation, most IT professionals chose a middle ground, which forced information workers to make critical security decisions. If a document contained ActiveX controls or macros from an unknown source, users were asked whether they wanted to enable the ActiveX controls or the macros. Users were not allowed to access the document until they answered the question. Although this was not a perfect solution, it did provide a mechanism for mitigating security threats without intruding too much on productivity. The main problem was that most users, when confronted with a security warning, dismissed the warning so they could access the document and get their work done. This was acceptable for low-risk internal documents that did not likely contain malicious content, but it was not acceptable for high-risk external documents that passed through the Internet and could contain malicious content. Unfortunately, users did not usually distinguish between high-risk and low-risk files and treated both files the same way — that is, they accepted the risk and enabled the ActiveX controls and macros."
+    }
+  }
+}
